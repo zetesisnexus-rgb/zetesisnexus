@@ -1,0 +1,11 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+<title>ZetesisNexus — Isotipo</title>
+<line x1="180" y1="240" x2="620" y2="240" stroke="#0F6E56" stroke-width="26" stroke-linecap="round"/>
+<line x1="620" y1="240" x2="180" y2="600" stroke="#0F6E56" stroke-width="26" stroke-linecap="round"/>
+<line x1="180" y1="600" x2="620" y2="600" stroke="#0F6E56" stroke-width="26" stroke-linecap="round"/>
+<circle cx="180" cy="240" r="42" fill="#085041"/>
+<circle cx="620" cy="240" r="42" fill="#085041"/>
+<circle cx="180" cy="600" r="42" fill="#085041"/>
+<circle cx="620" cy="600" r="42" fill="#085041"/>
+<circle cx="400" cy="420" r="38" fill="#D85A30"/>
+</svg>
